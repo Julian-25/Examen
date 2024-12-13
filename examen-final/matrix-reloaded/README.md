@@ -1,0 +1,1 @@
+El metodo para incrementar el nivel del usuario fue crear un nuevo atributo en la clase usuario y luego hacer un metodo que nos muestre el nivel del usuario y luego un metodo int que incremente el nivel del agente, luego de incrementado en el switch case se agrego dos casos nuevos que son mostrar nivel y incrementar nivel.
